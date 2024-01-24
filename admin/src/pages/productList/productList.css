@@ -1,0 +1,20 @@
+.productList{
+    flex: 4;
+}
+.productListImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.productListEdit{
+    border: none;
+    color: green;
+    font-size: 18px;
+    background-color: white;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.productListDelete{
+    color: red;
+    margin-left: 20px;
+}

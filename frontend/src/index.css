@@ -1,0 +1,8 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;200;300;400;700;800&family=Kanit:wght@300;400;500;600;700;800&family=Manrope:wght@300;400;500;600;700;800&family=Martian+Mono:wght@200;300;400;500;600;700;800&family=Merriweather:wght@300;400;700;900&family=Poppins:wght@300;400;500;600;700&family=Varela+Round&family=Yanone+Kaffeesatz&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+}
